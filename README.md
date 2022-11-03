@@ -5,6 +5,6 @@
 
  python mac-changer -i <<interfaceinterface>interface> -m <new_mac>
   
- -i gives you a random mac adress -m you can type the mac adress you want!
+ -i gives you a random mac adress -m you can type any mac adress you want!
 
 ![mac-changer1 (1)](https://user-images.githubusercontent.com/96448186/199758473-dd3f797f-06a0-4066-bd16-0d54ed86dd60.png)
